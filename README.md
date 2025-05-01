@@ -1,4 +1,4 @@
-<img src="img/title.png" width="100%" />
+
 
 Boas vindas ao Projeto Trainee 2021 da área de Aprendizado por Reforço!
 
