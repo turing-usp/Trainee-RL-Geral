@@ -1,6 +1,6 @@
 
 
-Boas vindas ao Projeto Trainee 2021 da área de Aprendizado por Reforço!
+Boas vindas ao Projeto Trainee da área de Aprendizado por Reforço!
 
 Antes de mais nada, recomendamos ler a seção de **[👩‍🏫 Introdução](https://github.com/turing-usp/Aprendizado-por-Reforco/tree/main/Introdu%C3%A7%C3%A3o)** do nosso Repositório de Aprendizado por Reforço para se familiarizar com os conceitos principais da área!
 
